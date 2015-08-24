@@ -1,0 +1,7 @@
+h1{
+	color:red;
+}
+.navbar-default {background-color: green; font-style: red}
+.btn-default {background-color: blue}
+.navbar-default .navbar-nav > li > a {color: pink;}
+body {background-color: gray} 
